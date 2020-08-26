@@ -24,9 +24,11 @@ source mypython/bin/activate
 
   - In order to check and run the n_gram range and ML Model run Modified_final_updated_26_07_2020.ipynb and change the variable below.
  - Example 1:
+ '''
     n1 = 1 (n1 and n2 for N_gram rannge.e.g (1,1) will be unigram
     n2 = 1
     model_name = "LinearSVC"
+ '''
  - Example 2:
     n1 = 2
     n2 = 2
